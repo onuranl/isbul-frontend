@@ -2,6 +2,10 @@
 
 Rick and Morty API'sini kullanarak karakterleri listeleme ve filtreleme uygulaması.
 
+## 🌐 Live Demo
+
+Uygulamayı canlı olarak görmek için: [https://isbul-frontend-zuue.vercel.app/](https://isbul-frontend-zuue.vercel.app/)
+
 ## 🚀 Kurulum ve Çalıştırma
 
 ### Gereksinimler
